@@ -1,0 +1,36 @@
+
+html{
+  background: url('../images/makeup3.jpg') no-repeat center center fixed;
+ -webkit-background-size: cover;
+ -moz-background-size: cover;
+ -o-background-size: cover;
+ background-size: cover;
+}
+
+body{
+  text-align: center;
+  width: 500px;
+  margin: auto;
+  border: 3px solid Black;
+}
+
+
+h1 {
+    color: mistyrose;
+    font-size: 50px;
+    font-style: italic;
+    /* text-shadow: 3px 2px pink; */
+}
+
+h2{
+  color: palevioletred;
+  text-decoration: underline;
+}
+
+p{
+  color: lightpink;
+}
+
+label{
+  color: mistyrose;
+}
